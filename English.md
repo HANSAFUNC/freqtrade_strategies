@@ -193,5 +193,5 @@ If you have any questions or suggestions, please contact us through the followin
 
 **Happy Trading! 🚀**
 
-*Last updated: 2024*
+*Last updated: 2026*
 
