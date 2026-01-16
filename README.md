@@ -198,5 +198,5 @@ freqtrade webserver
 
 **Happy Trading! 🚀**
 
-*最后更新: 2024年*
+*最后更新: 2026年*
 
