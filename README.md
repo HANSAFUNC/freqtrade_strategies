@@ -1,4 +1,4 @@
-# freqtrade_strategies
+# Freqtrade Strategies
 Trading Strategies for Freqtrade,It might be an ML strategy, an LLM strategy or a technical analysis strategy
 
 [中文](Chinese.md) | [English](English.md)
